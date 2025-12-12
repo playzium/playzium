@@ -17,8 +17,7 @@
 
 ### What I'm currently working on:
 > ```
-> - A Hobby Tracker/Scheduler
+> - A SaaS Product
 > - Lava Lamp Interations V2
-> - A Learning Backend for full-stack development
 > ```
 
