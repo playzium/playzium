@@ -1,9 +1,9 @@
 ## Heyo, Welcome! 👋
 
-### My name is Playzium!
-> I'm an aspiraring Front-end dev who's goal is to become a full-stack! I've always loved coding and I hope to grow in that love and skill as I move forward!
+### My name is Wilson!
+> I'm an aspiraring Front-end dev who's goal is to become a coding entrepreneur! I've always loved coding and making products. I hope to grow in those loves and skills as I move forward!
 
-## My Toolbelt!
+## My Toolbelt;
 
 |  | | |
 | ------------- | ------------- | ------------- |
