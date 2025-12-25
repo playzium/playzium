@@ -1,7 +1,7 @@
 ## Heyo, Welcome! 👋
 
 ### My name is Wilson!
-> I'm an aspiraring Front-end dev who's goal is to become a coding entrepreneur! I've always loved coding and making products. I hope to grow in those loves and skills as I move forward!
+> I'm an aspiraring Front-end dev who's goal is to become a coding entrepreneur. I'm not always active here on Github, but I try my best to keep things up to date as much as I can. I've always loved coding and making products. I hope to grow in those loves and skills as I move forward!
 
 ## My Toolbelt;
 
