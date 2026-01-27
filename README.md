@@ -17,7 +17,8 @@
 
 ### What I'm currently working on:
 > ```
-> - A SaaS Product
+> - Portfolio
+> - My Weather Website (weather.lygonms.com)
 > - Lava Lamp Interations V2
 > ```
 
