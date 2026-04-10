@@ -16,5 +16,6 @@
 > - A Portfolio for my main site (lygonms.com)
 > - Weather Website (weather.lygonms.com)
 > - Lava Lamp Interactions V2
+> - Possibly learn Lua (Because why not)
 > - ParakeetTranscript for Macs with a Intel CPU rather Silicon (Fork of Gassandrid's original repo).
 > ```
